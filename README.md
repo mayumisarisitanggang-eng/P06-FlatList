@@ -27,7 +27,7 @@
 ![Empty](assets/3.jpeg)
 
 ## Cara Menjalankan
-1. Clone repo  : git clone [url-repo-kamu]
+1. Clone repo  : git clone [https://github.com/mayumisarisitanggang-eng/P06-FlatList.git]
 2. Expo Snack  : (https://snack.expo.dev/@maayumi.s/yumii-flowers)
 3. Install deps: npm install
 4. Jalankan    : npx expo start
