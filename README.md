@@ -1,0 +1,34 @@
+# ShopList App - Pemrograman Mobile Pertemuan 6
+
+## Nama & NIM
+- Nama: [Mayumi Sari Sitanggang]
+- NIM:  [253303622301]
+
+## Fitur yang Diimplementasikan
+- [x] FlatList dengan 12+ produk
+- [x] Custom ProductCard component (file terpisah)
+- [x] keyExtractor dengan ID unik
+- [x] ListEmptyComponent (empty state)
+- [x] Search / Filter real-time
+- [x] Pull-to-Refresh
+- [x] Filter Kategori (E1) — isi jika dikerjakan
+- [x] Toggle List/Grid View (E2) — isi jika dikerjakan
+- [x] SectionList Mode (E3) — isi jika dikerjakan
+- [x] Sort Produk (E4) — isi jika dikerjakan
+
+## Screenshot
+### Tampilan Utama (List Produk)
+[![alt text](../assets/1.jpeg)]
+
+### Tampilan Search — saat ada hasil
+[![alt text](../assets/2.jpeg)]
+
+### Tampilan Empty State — saat tidak ada hasil
+[![screenshot HP fisik di sini](../assets/3.jpeg)]
+
+## Cara Menjalankan
+1. Clone repo  : git clone [url-repo-kamu]
+2. Expo Snack  : (https://snack.expo.dev/@maayumi.s/yumii-flowers)
+3. Install deps: npm install
+4. Jalankan    : npx expo start
+5. Scan QR Code dengan Expo Go di HP
