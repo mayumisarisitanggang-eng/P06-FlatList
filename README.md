@@ -18,13 +18,13 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-[![alt text](../assets/1.jpeg)]
+![Tampilan Utama](assets/1.jpeg)
 
 ### Tampilan Search — saat ada hasil
-[![alt text](../assets/2.jpeg)]
+![Search](assets/2.jpeg)
 
 ### Tampilan Empty State — saat tidak ada hasil
-[![screenshot HP fisik di sini](../assets/3.jpeg)]
+![Empty](assets/3.jpeg)
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
