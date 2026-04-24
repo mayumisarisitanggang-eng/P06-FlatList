@@ -1,0 +1,17 @@
+export const products = [
+  { id: "1", name: "Rose Bouquet", category: "Romantis", price: 120000, rating: 4.9, image: "🌹" },
+  { id: "2", name: "Tulip Dream", category: "Romantis", price: 95000, rating: 4.7, image: "🌷" },
+  { id: "3", name: "Sunflower Joy", category: "Ceria", price: 70000, rating: 4.6, image: "🌻" },
+  { id: "4", name: "Daisy Smile", category: "Ceria", price: 65000, rating: 4.5, image: "🌼" },
+  { id: "5", name: "Lavender Calm", category: "Aromatik", price: 85000, rating: 4.8, image: "💜" },
+  { id: "6", name: "Orchid Elegance", category: "Elegan", price: 150000, rating: 4.9, image: "🌸" },
+  { id: "7", name: "Golden Rose", category: "Elegan", price: 130000, rating: 4.8, image: "🌹" },
+  { id: "8", name: "Mini Cactus", category: "Tanaman", price: 40000, rating: 4.3, image: "🌵" },
+  { id: "9", name: "Green Plant", category: "Tanaman", price: 60000, rating: 4.7, image: "🪴" },
+  { id: "10", name: "Flower Vase", category: "Dekorasi", price: 80000, rating: 4.4, image: "🏺" },
+  { id: "11", name: "Gift Bouquet", category: "Bouquet", price: 110000, rating: 4.8, image: "🎁" },
+  { id: "12", name: "Mixed Bouquet", category: "Bouquet", price: 100000, rating: 4.7, image: "💐" },
+  { id: "13", name: "Heart Flower", category: "Romantis", price: 90000, rating: 4.6, image: "💖" },
+  { id: "14", name: "White Lily", category: "Elegan", price: 125000, rating: 4.8, image: "🤍" },
+  { id: "15", name: "Colorful Mix", category: "Ceria", price: 75000, rating: 4.5, image: "🌺" },
+];
